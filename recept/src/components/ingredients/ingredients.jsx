@@ -1,4 +1,4 @@
-import "ingredients.css";
+import "./ingredients.css";
 
 function ingredients(){
       <div className="ingredients-container">

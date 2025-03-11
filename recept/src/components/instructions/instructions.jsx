@@ -1,6 +1,7 @@
-import "ingredients.css";
+import "./instructions.css";
  
- <div className="instructions-container">
+function instructions() {
+     <div className="instructions-container">
         <h2 class="instructions">instructions</h2>
         <ol>
             <li><b>beat the eggs:</b> in a bowl, beat the eggs with pinch of salt and peppert untill they are well mixed. you can aff a tablespoon of water or milk for fluffier texture</li>
@@ -13,6 +14,7 @@ import "ingredients.css";
 
         </ol>
         </div>
+}
 
 
 export default instructions;

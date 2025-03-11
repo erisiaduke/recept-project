@@ -1,4 +1,4 @@
-import "time.css";
+import "./time.css";
 
 function time(){ <div className="time-container">
             <h3 class="time">preparation time</h3>
