@@ -1,0 +1,11 @@
+.omlette-container .title {
+  font-size: 3rem;
+}
+.omlette-container .time-container {
+  background-color: rgb(255, 247, 252);
+  padding-left: 20px;
+  border-radius: 10px;
+}
+.omlette-container .time-container .time {
+  color: rgb(132, 53, 85);
+}

@@ -1,0 +1,6 @@
+.omlette-container .ingredients-container {
+  border-bottom: 1px solid rgb(186, 183, 183);
+}
+.omlette-container .ingredients-container .ingredients {
+  color: rgb(135, 84, 63);
+}
