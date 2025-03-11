@@ -1,6 +1,8 @@
 import "./instructions.css";
  
 function instructions() {
+    return(
+        
      <div className="instructions-container">
         <h2 class="instructions">instructions</h2>
         <ol>
@@ -14,6 +16,8 @@ function instructions() {
 
         </ol>
         </div>
+        
+    )
 }
 
 

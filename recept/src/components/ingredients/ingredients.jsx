@@ -1,6 +1,9 @@
 import "./ingredients.css";
 
 function ingredients(){
+  return(
+    
+  
       <div className="ingredients-container">
         <h2 class="ingredients">ingredients</h2>
         <ul>
@@ -11,5 +14,7 @@ function ingredients(){
             <li>optional fillings: cheese, diced vegatables, cooked meat,herbs</li>
         </ul>
         </div>
+        
+        )
 }
 export default ingredients;
