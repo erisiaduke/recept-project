@@ -1,6 +1,6 @@
 import "./nutrition.css";
 
-function nutrition(){
+function Nutrition(){
     return(
         <div>
          <h2 class="nutrition">nutrition</h2>
@@ -8,4 +8,4 @@ function nutrition(){
         </div>
     )
 }
-export default nutrition;
+export default Nutrition;

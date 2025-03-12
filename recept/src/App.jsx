@@ -3,7 +3,7 @@ import Title from "./components/title/title"
 import Time from "./components/time/time"
 import Ingredients from "./components/ingredients/ingredients"
 import Instructions from "./components/instructions/instructions"
-import nutrition from "./components/nutrition/nutrition"
+import Nutrition from "./components/nutrition/nutrition"
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Time />
       <Ingredients />
       <Instructions />
-      <nutrition />
+      <Nutrition />
     </div>
   )
 }
